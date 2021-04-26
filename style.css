@@ -103,6 +103,7 @@ footer h1{
     border-bottom: 1px solid white;
     width: 20%;
     padding-bottom: 5px;
+    text-align: center;
 }
 footer .services{
     margin-top: -10px;
